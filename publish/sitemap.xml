@@ -2,630 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://mdtcolecionaveis.netlify.app/naruto/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/liga-da-justica/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/mortal-kombat/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/pokemon/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/deadpool/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/spawn/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/the-shining/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/looney-tunes/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/tekken/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/world-of-warcraft/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/resident-evil/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/attack-on-titan/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/terror/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/yuyu-hakusho/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/mulher-maravilha/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/jogos/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/personagens-de-filmes/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/batman/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/dragon-ball-z/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/homem-aranha/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/harry-potter/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/batman-vs-superman/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/rick-and-morty/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/senhor-dos-aneis/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/sons-of-anarchy/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/personagem-dos-quadrinhos/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/street-fighter/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/guardioes-da-galaxia/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/stranger-things/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/star-wars/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/anime/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/dc/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marvel/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/kingdom-hearts/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/celebridade/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/my-hero-academia/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/game-of-thrones/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/jurassic-park/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/it/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/em-estoque/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/avengers/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/pre-venda/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/masters-of-the-universe/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/disney/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/riverdale/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/friends/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/gossip-girl/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/doug/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/sonic/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/death-note/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/futurama/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/motley-crue/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/royals/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/jetsons/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/horizon-zero-dawn/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/avatar/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/crash-bandicoot/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/power-rangers/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/matrix/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/x-men/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/the-addams-family/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/the-simpsons/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/supernatural/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/bombshells/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/bishoujo/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/the-office/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/la-casa-de-papel/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/tartarugas-ninja/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/os-cavaleiros-do-zodiaco/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/how-i-met-your-mother/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/hanna-barbera/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/greys-anatomy/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/elvis-presley/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/freddie-mercury/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/asmus-toys</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/bandai</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/banpresto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/copycat</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/gentle-giant</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/dc-collectibles</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/diamond-select</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/mcfarlane</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/hot-toys</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/kotobukiya</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/mezco-toys</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/pop-funko</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/qmx</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/storm-collectibles</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/weta</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/tweeterhead</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/hasbro</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/fire</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/playarts</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/dark-horse</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/first-4-figures</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/tpf-toys</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/cryptozoic</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/yamato</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/sideshow</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/beast-kingdom</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/neca</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/kaustic-plastik</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/mattel</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://mdtcolecionaveis.netlify.app/marca/super-7</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://mdtcolecionaveis.netlify.app/qmx-catwoman-rebirth-q-fig</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1742,6 +1118,2334 @@
     </url>
   
     <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-incredibles-2-elastigirl-364</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-spider-man-gamerverse-spider-punk-503-px-previews</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-riverdale-jughead-jones-589</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hot-toys-avengers-endgame-war-machine-1-6-diecast</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-incredibles-2-frozone-368</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/p_1620</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-incredibles-2-screenslaver-369</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-ww-80th-anniversary-wonder-woman-white-lantern-gitd-ee-exclusive-423</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-incredibles-2-violet-365</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/kotobukiya-marvel-universe-scarlet-witch-artfx-premier-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/diamond-select-lord-of-the-rings-deluxe-series-4-legolas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-rocks-ac-dc-angus-young-91</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/diamond-select-lord-of-the-rings-deluxe-series-4-gimli</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-el-chapulin-colorado-chapolin-752</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/diamond-select-invincible-series-1-invincible</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-it-ben-hanscom-538</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/diamond-select-invincible-series-1-omni-man</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-rocks-iron-maiden-number-of-the-beast-eddie-145</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-predador-q-fig-max-elite</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-it-pennywise-spider-leg-542</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-wandavision-scarlet-witch-gitd-ee-exclusive-823</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-mortal-kombat-scorpion-537</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-alien-q-fig-max-elite</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hasbro-marvel-legends-deadpool-6quot</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-mortal-kombat-sub-zero-536</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-spider-man-venom-poison-spider-ee-exclusive-966</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-mortal-kombat-raiden-538</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-venom-poison-spider-man-chase-gitd-ee-exclusive-966</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/caixa-danificada-weta-lord-of-the-rings-mini-epics-statue-legolas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-incredibles-2-set-completo-8-pecas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-friends-joey-tribbiani-clothes-701</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-wandavision-vision-50s-714</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-office-dwight-schrute-the-scranton-strangler-1045</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-wandavision-vision-50s-chase-714</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-office-michael-scott-straitjacket-1044</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-saint-seiya-knights-of-the-zodiac-andromeda-shun-809</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-moments-aladdin-aladdin039s-first-wish-409</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-saint-seiya-knights-of-the-zodiac-cygnus-hyoga-808</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-saint-seiya-knights-of-the-zodiac-dragon-shiryu-807</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-power-rangers-lord-zedd-666</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-saint-seiya-knights-of-the-zodiac-pegasus-seiya-806</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-x-men-cyclops-q-fig-diorama</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-batman-last-knight-on-earth-q-fig-elite-figure</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-monsters-inc-roz-387</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-star-wars-the-mandalorian-the-child-baby-yoda-with-bag-405</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-viktor-krum-yule-ball-89</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-office-jim-halpert-with-nonsense-sign-1046</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/diamond-select-marvel-gallery-silk-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-office-jim-halpert-870</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/first-4-figures-sonic-the-hedgehog-boom8-series-vol-2-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-moments-star-wars-the-mandalorian-the-mandalorian-with-the-child-390</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/banpresto-dragon-ball-super-black-goku-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/diamond-select-marvel-comic-premier-collection-black-panther-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-silence-of-the-lambs-hannibal-lecter-bloody-788</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-spider-man-miles-morales-q-fig-elite-diorama</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/banpresto-dragon-ball-super-super-shenlong-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-the-killing-joker-joker-q-fig</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-deadpool-4d-q-fig-diorama</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/copycat-desert-fight-rifle-1-6</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/dc-collectibles-batman-animated-series-batman-13</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-x-men-wolverine-q-fig-diorama</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-lord-of-the-rings-frodo-baggins-444</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-lord-of-the-rings-samwise-gamgee-445</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-lucius-malfoy-36</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-futurama-fry-27</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avengers-endgame-bro-thor-578</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-futurama-leela-28</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avengers-infinity-war-thor-286</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-spider-man-spider-man-334</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-cedric-diggory-yule-ball-90</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-back-to-the-future-doc-2015-960</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-fleur-delacour-yule-ball-88</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-back-to-the-future-marty-in-puffy-vest-961</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/first-4-figures-sonic-the-hedgehog-boom8-series-vol-1-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-sybill-trelawney-86</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-disney-villains-cruella-de-vil-diamond-collection-exclusive-736</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-jurassic-park-velociraptor-549</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-80th-first-appearance-namor-500</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-hermione-03</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-stranger-things-joyce-550</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-bloody-baron-74</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-kiss-the-demon-121-gene-simons</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-teenage-mutant-ninja-turtles-raphael-19</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-power-rangers-billy-blue-ranger-673</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/dc-collectibles-the-dark-knight-returns-batman-vs-superman-mini-battle-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-teenage-mutant-ninja-turtles-michelangelo-18</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-friends-monica-geller-as-catwoman-1069</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-green-arrow-q-fig</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-dragon-ball-z-majin-vegeta-862</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-stranger-things-billy-640</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-crash-bandicoot-crash-bandicoot-421</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-justice-league-wonder-woman-q-fig</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-master-of-the-universe-terror-claws-skeletor-39</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-goodfeathers-q-fig-max</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/kotobukiya-bishoujo-evil-dead-2-dead-by-dawn-ash-williams-1-7</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-my-hero-academia-himiko-toga-610-aaa-anime-exclusive</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-queen-freddie-mercury-wembley-1986-96</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-doug-porkchop-412</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-doug-porkchop-412-chase</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-rock-elvis-presley-1968-comeback-special-188</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-rock-elvis-presley-blue-hawaii-187</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/dc-collectibles-batman-black-and-white-by-mcfarlane-deluxe-statue-20</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-star-wars-porg-198</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-stranger-things-hopper-with-vines-641</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/kotobukiya-marvel-defenders-daredevil-artfx-statue-1-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/diamond-select-avatar-the-last-airbender-aang-gallery-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-friends-phoebe-buffy-music-video-1068</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-friends-rachel-green-in-pink-dress-1065</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-keychain-jurassic-world-blue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avatar-aang-with-momo-534</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-teenage-mutant-ninja-turtles-donatello-17</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/neca-ghostbusters-stay-puft-marshmallow-man-head-knocker</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-master-of-the-universe-she-ra-38</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-jetsons-elroy-jetson-512</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-cast-away-chuck-noland-wilson-791</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-mcdonald039s-ronald-mcdonald-85</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-80th-first-appearance-wolverine-547</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-rides-lord-of-the-rings-gwaihir-with-gandalf-72</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/weta-lord-of-the-rings-mini-epics-statue-gollum</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/diamond-select-marvel-gallery-x-23-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avatar-aang-spirit-glow-940-exclusivo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/diamond-select-marvel-premier-collection-magneto-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avatar-zuko-glow-838-exclusivo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-george-weasley-34</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-pokemon-bulbasaur-453</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-albus-dumbledore-04</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-pokemon-charmander-455</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/play-arts-kai-batman-arkham-origins-n-3-robin-original</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-stranger-things-bob-in-scrubs-639</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-riverdale-archie-andrews-730</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-friends-monica-geller-704</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-gilderoy-lockhart-59</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-la-casa-de-papel-berlin-743</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-queen-freddie-mercury-king-184</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-la-casa-de-papel-nairobi-916</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-queen-freddie-mercury-live-aid-1985-183</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-la-casa-de-papel-tokio-741</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-rides-harry-potter-gringotts-dragon-with-harry-ron-hermione-93</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-rubeus-hagrid-78-super-sized</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-crash-bandicoot-crash-273-chase</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-igor-karkaroff-yule-ball-95</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-star-wars-porg-198-chase</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-padma-patil-yule-ball-99</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-world039s-finest-batman-and-superman-q-fig-max</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-disney-beauty-and-the-beast-enchantress-1035-2021-wondrous-convention-exclusive</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-wonder-woman-cloak-sepia-ee-229</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/kotobukiya-bishoujo-street-fighter-cammy-alpha-costume-1-7</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-disney-ultimate-princess-jasmine-1013</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avengers-infinity-war-captain-america-288</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-game-of-thrones-davos-seaworth-62</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-game-of-thrones-jon-snow-beyond-the-wall-61</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-godzilla-vs-kong-kong-king-with-battle-axe-1021</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-office-dwight-schrute-as-recyclops-938-exclusivo-sdcc-2020</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-game-of-thrones-daenerys-targaryen-sitting-on-throne-deluxe-75</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-the-falcon-and-the-winter-soldier-captain-america-817-special-edition</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-the-falcon-and-the-winter-soldier-falcon-812</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-toy-story-wheezy-519</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-space-jam-taz-414</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-tom-riddle-60</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-space-jam-bugs-413</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-dragon-ball-super-future-trunks-313</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/dark-horse-the-last-of-us-part-ii-ellie-with-bow-figure</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-grey039s-anatomy-miranda-bailey-1077</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-smallville-green-arrow-628</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-grey039s-anatomy-derek-shepherd-1075</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-severus-snape-yule-ball-94</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-rock-elvis-presley-jailhouse-rock-186</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-batman-rebirth-q-fig</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-parvati-patil-yule-ball-100</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-star-wars-the-mandalorian-the-mandalorian-with-child-grogu-baby-yoda-402</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-jurassic-park-dr-ian-malcom-547</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avatar-appa-540</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hasbro-star-wars-the-black-series-general-grievous-action-figure</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-flash-q-fig</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-harry-potter-cho-chang-yule-ball-98</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hasbro-star-wars-the-black-series-the-mandalorian-action-figure</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/kotobukiya-star-wars-empire-strikes-back-lando-calrissian-artfx-statue-1-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-wonder-woman-movie-q-fig-max-figure</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-star-wars-solo-han-solo-238</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-lord-of-the-rings-lurtz-533</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-game-of-thrones-daenerys-targaryen-on-dragonstone-throne-63</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-dragon-ball-z-super-saiyan-goku-14-glow-ee-exclusive</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-dc-death-metal-wonder-woman-385-px</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-simpsons-barney-901</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-keychain-game-of-thrones-jon-snow-beyond-the-wall</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/mattel-the-child-pelucia-baby-yoda-premium-plush-bundle</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hot-wheels-mattel-star-wars-starships-millennium-falcon</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/dc-collectibles-the-new-batman-adventures-batgirl-16</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hot-wheels-mattel-star-wars-starships-the-mandalorian-the-child-hover-pram</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avengers-endgame-captain-marvel-576-new-hair</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hot-wheels-mattel-star-wars-starships-at-st-raider</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hot-wheels-mattel-star-wars-starships-razor-crest</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avengers-infinity-war-teen-groot-293</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avengers-endgame-thanos-579-in-the-garden</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hot-wheels-mattel-star-wars-starships-tie-fighter</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avengers-infinity-war-proxima-midnight-292</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/jada-toys-mystery-machine-with-scooby-shaggy-1-24-die-cast-metal-vehicle</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hot-toys-batman-the-dark-knight-two-face-1-6-toy-fair-2019-exclusive</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/kotobukiya-batman-hush-blue-costume-variant-artfx-1-6</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-lion-king-luau-pumbaa-498</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-friends-chandler-bing-as-bunny-1066</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-friends-ross-geller-as-sputnik-1070</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-mortal-kombat-liu-kang-252</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-friends-joey-tribbiani-cowboy-1067</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/dc-collectibles-the-sandman-bombshells-death-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-friends-gunther-1064</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-birds-of-prey-black-canary-304-ee-exclusive</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-friends-gunther-1064-chase</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-rock-elvis-presley-1968-comeback-special-diamond-glitter-ee-exclusive-188</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-simpsons-chief-wiggum-899</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-addams-family-gomez-addams-810</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-pokemon-pikachu-attack-stance-779</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/asmus-toys-the-hobbit-bilbo-baggins-1-6</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-birds-of-prey-huntress-305-ee-exclusive</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-pokemon-psyduck-781</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-birds-of-prey-roman-sionis-306-ee-exclusive</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-x-men-storm-q-fig-diorama</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-toy-story-4-alien-525</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hasbro-star-wars-the-vintage-collection-the-child-grogu-baby-yoda</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-rides-game-of-thrones-mounted-white-walker-60</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/weta-ghostbusters-mini-epics-statue-winston-zeddemore</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-venom-q-fig-diorama</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/weta-alien-mini-epics-statue-ellen-ripley</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-royals-prince-harry-06</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-x-men-kitty-pryde-and-lockheed-q-fig-elite-diorama</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-mrbean-592-chase</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/weta-lord-of-the-rings-mini-epics-statue-pippin</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-mortal-kombat-scorpion-q-fig</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-tekken-jin-kazama-173</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-royals-prince-charles-02</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/weta-lord-of-the-rings-mini-epics-statue-merry</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-mortal-kombat-sub-zero-q-fig</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-pokemon-meowth-780</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-hunchback-of-notre-dame-esmeralda-635</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-fantasia-sorcerer-mickey-q-fig-max-elite</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/dark-horse-witcher-3-wild-hunt-geralt-grandmaster-feline</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-lilo-stitch-stitch-with-ukulele-1044</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-pokemon-pikachu-553</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/diamond-select-avatar-the-last-airbender-katara-gallery-statue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/dark-horse-witcher-3-wild-hunt-yennefer</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/kotobukiya-flashpoint-batman-thomas-wayne-artfx-statue-1-6</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-icons-stan-lee-07-patina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-what-if-doctor-strange-supreme-874</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hasbro-marvel-legends-deadpool-12quot</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-pokemon-eevee-577</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-lucha-libre-el-aracno-706</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-spider-man-miles-morales-track-768</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-pokemon-mr-mime-582</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-spider-man-miles-morales-advanced-772</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-dragon-ball-super-goku-black-314</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-pokemon-vulpix-580</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-spider-man-black-suit-spider-man-79-exclusivo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-dragon-ball-super-whis-317</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-spider-man-big-time-suit-270-exclusivo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-wonder-woman-1984-ww-golden-armor-323</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-el-chavo-del-ocho-chaves-751</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-5-star-my-hero-academia-ochako</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-saint-seiya-knights-of-the-zodiac-sagittarius-seiya-811-exclusivo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-kingdom-hearts-kairi-332</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-guardians-of-the-galaxy-thanos-78-6quot-glows-ee-exclusive</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avengers-endgame-captain-america-450</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-suicide-squad-harley-quinn-1108</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-kingdom-hearts-riku-333</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-suicide-squad-harley-quinn-dress-1111</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/bandai-dragon-ball-tao-pai-pai-sh-figuarts-1-12</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avatar-fire-lord-ozai-999</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avatar-zuko-538</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/kotobukiya-marvel-defenders-luke-cage-artfx-statue-1-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-star-wars-holiday-santa-yoda-277</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/qmx-hermione039s-first-spell-q-fig</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-avengers-endgame-black-widow-454</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-star-wars-the-mandalorian-ahsoka-464</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-keychain-marvel-spider-man-far-from-home-mysterio</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-naruto-naruto-rasengan-181</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-my-hero-academia-shota-aizawa-375</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-simpsons-bartman-503</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-batman-dark-knight-returns-carrie-kelley-robin-115-px-exclusivo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/kotobukiya-x-men-92-wolverine-and-jubilee-artfx-statue-1-10</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-the-simpsons-mr-burns-501</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-marvel-deadpool-546</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/funko-pop-batman-80th-batman-forever-289</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/camino-thanos-gloves-led-keychain</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/tpf-toys-chaveiros-star-wars-multikids</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/artoys-hell-man-1-6</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/naruto/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/liga-da-justica/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/mortal-kombat/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/pokemon/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/deadpool/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/spawn/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/the-shining/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/looney-tunes/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/tekken/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/world-of-warcraft/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/resident-evil/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/attack-on-titan/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/terror/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/yuyu-hakusho/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/mulher-maravilha/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/jogos/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/personagens-de-filmes/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/batman/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/dragon-ball-z/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/homem-aranha/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/harry-potter/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/batman-vs-superman/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/rick-and-morty/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/senhor-dos-aneis/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/sons-of-anarchy/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/personagem-dos-quadrinhos/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/street-fighter/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/guardioes-da-galaxia/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/stranger-things/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/star-wars/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/anime/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/dc/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marvel/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/kingdom-hearts/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/celebridade/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/my-hero-academia/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/game-of-thrones/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/jurassic-park/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/it/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/em-estoque/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/avengers/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/pre-venda/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/masters-of-the-universe/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/disney/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/riverdale/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/friends/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/gossip-girl/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/doug/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/sonic/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/death-note/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/futurama/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/motley-crue/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/royals/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/jetsons/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/horizon-zero-dawn/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/avatar/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/crash-bandicoot/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/power-rangers/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/matrix/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/x-men/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/the-addams-family/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/the-simpsons/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/supernatural/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/bombshells/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/bishoujo/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/the-office/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/la-casa-de-papel/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/tartarugas-ninja/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/os-cavaleiros-do-zodiaco/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/how-i-met-your-mother/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/hanna-barbera/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/greys-anatomy/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/elvis-presley/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/freddie-mercury/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/asmus-toys</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/bandai</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/banpresto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/copycat</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/gentle-giant</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/dc-collectibles</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/diamond-select</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/mcfarlane</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/hot-toys</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/kotobukiya</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/mezco-toys</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/pop-funko</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/qmx</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/storm-collectibles</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/weta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/tweeterhead</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/hasbro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/fire</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/playarts</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/dark-horse</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/first-4-figures</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/tpf-toys</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/cryptozoic</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/yamato</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/sideshow</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/beast-kingdom</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/neca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/kaustic-plastik</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/mattel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://mdtcolecionaveis.netlify.app/marca/super-7</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://mdtcolecionaveis.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1760,13 +3464,13 @@
     </url>
   
     <url>
-      <loc>https://mdtcolecionaveis.netlify.app/pages/pagamentos</loc>
+      <loc>https://mdtcolecionaveis.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://mdtcolecionaveis.netlify.app/pages/privacidade</loc>
+      <loc>https://mdtcolecionaveis.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
