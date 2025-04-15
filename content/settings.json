@@ -1,12 +1,12 @@
 {
   "domain": "mdtcolecionaveis.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#28a745",
+  "primary_color": "#3f304d",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#edeaee",
   "repository": "ecomplus-stores/mdtcolecionaveis",
   "logo": "/img/uploads/logo-removebg-preview-1-.png",
   "name": "MDT Colecionáveis - Action Figures, Estátuas, Funko Pops e mais",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#484647",
+  "secondary_color": "#7a5f8c",
   "icon": "/img/uploads/logo-removebg-preview-1-.png",
   "store_id": 51350,
   "description": "Loja virtual de artigos colecionáveis, action figures, estátuas, Funko Pops, bonecos e muito mais!\n\n“Estes produtos não são brinquedos. Produtos destinados a colecionadores com mais de 14 (quatorze) anos” (Portaria INMETRO nº 563/16)",
