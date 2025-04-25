@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#3f304d",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "minty",
     "custom": "_"
   },
-  "bg_color": "#edeaee",
+  "bg_color": "#e8ddea",
   "repository": "ecomplus-stores/mdtcolecionaveis",
   "logo": "/img/uploads/logo-removebg-preview-1-.png",
   "name": "MDT Colecionáveis - Action Figures, Estátuas, Funko Pops e mais",
