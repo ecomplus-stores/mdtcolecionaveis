@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
+    "text": "PAGAMENTOS POR DEPÓSITO DESCONTO DE 5%.",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -19,7 +19,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 16,
     "full_width": false
   },
   "desktop_megamenu": false,
