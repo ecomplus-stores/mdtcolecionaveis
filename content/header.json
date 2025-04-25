@@ -26,7 +26,10 @@
       "/dc/?DC",
       "/marvel/?Marvel",
       "/star-wars/?Star Wars",
-      "/rock?Rock"
+      "/rock?Rock",
+      "/personagens-de-filmes/?Filmes/Séries",
+      "/anime/?Animes",
+      "/jogos/?Jogos"
     ],
     "random": 6,
     "full_width": true
